@@ -1,0 +1,4 @@
+# Allow-list: only what the image build actually needs.
+*
+!app/app.py
+!app/requirements.txt
